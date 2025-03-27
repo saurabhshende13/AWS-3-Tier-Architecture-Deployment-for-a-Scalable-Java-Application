@@ -183,9 +183,13 @@ curl http://<app-server-private-IP>:8080/dptweb-1.0/
 
 ## Project Outcomes
 ✅ **Highly Available & Scalable** Java application deployment
+
 ✅ **Automated Infrastructure Provisioning** with Terraform
+
 ✅ **Secure Access** using Public & Private subnets with a Bastion Host
+
 ✅ **Efficient Load Balancing** using ALB & Auto Scaling
+
 ✅ **Optimized Database Management** with Amazon RDS Multi-AZ
 
 ---
